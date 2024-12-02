@@ -1,0 +1,8 @@
+Uri: https://help-face-book.github.io/24-7-call-us/?gad_source=1&gclid=CjwKCAjwjsi4BhB5EiwAFAL0YPUip-TH9rqpZbhkUfq_nzLEoi2LdqAA3Z8pb08DAO3mfyXLN47a0xoCqCYQAvD_BwE
+File Name: C:\Downloaded Web Sites\help-face-book.github.io\24-7-call-us\index.htm
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-5EKQ75997B
+File Name: C:\Downloaded Web Sites\help-face-book.github.io\gtag\js
+Content Type: application/javascript
+
